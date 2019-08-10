@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>site name</title>
+		<description>a personal blog</description>
+		<link>http://0.0.0.0:9001</link>
+		<atom:link href="http://0.0.0.0:9001/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>California: Music &amp; Palm Trees</title>
+				
+				
+					<description>Disney had secretly begin animating a new cartoon while still under contract with Universal...</description>
+				
+				<pubDate>Sun, 17 Feb 2019 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:9001/losangeles</link>
+				<guid isPermaLink="true">http://0.0.0.0:9001/losangeles</guid>
+			</item>
+		
+			<item>
+				<title>Watering A Flower</title>
+				
+				
+					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
+				
+				<pubDate>Mon, 28 Jan 2019 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:9001/Hosono</link>
+				<guid isPermaLink="true">http://0.0.0.0:9001/Hosono</guid>
+			</item>
+		
+			<item>
+				<title>Template Post</title>
+				
+				
+					<description>Disney had secretly begin animating a new cartoon while still under contract with Universal...</description>
+				
+				<pubDate>Sat, 05 Jan 2019 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:9001/template</link>
+				<guid isPermaLink="true">http://0.0.0.0:9001/template</guid>
+			</item>
+		
+			<item>
+				<title>Song Writing: Spatial or Sonic?</title>
+				
+				
+					<description>Disney had Ub wowkrwkrkwr secretly begin animating a new cartoon while still under contract with Universal...</description>
+				
+				<pubDate>Sat, 05 Jan 2019 00:00:00 -0500</pubDate>
+				<link>http://0.0.0.0:9001/teaching</link>
+				<guid isPermaLink="true">http://0.0.0.0:9001/teaching</guid>
+			</item>
+		
+	</channel>
+</rss>
